@@ -1,1 +1,2 @@
-# Akash_Coding
+"# Day 3"
+I learned how recursive algorithms can be analyzed through the use of recurrence relations and three different techniques. The three techniques for analyzing recursive algorithms are Recursion Tree, Substitution Method, and Master Theorem. Recursion trees are useful for visualizing work at different levels. Master Theorem is useful for solving the most common divide-and-conquer recurrences. Even when Master Theorem is not applicable, recursion trees have uses for finding the complexity of algorithms. The basic strategy is to formulate the recurrence, compare the works done at several levels, and decide which part of the recursion tree does most of the work.
